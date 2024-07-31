@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Evangadi-Forum/static/css/main.b38a0eba.css",
-    "main.js": "/Evangadi-Forum/static/js/main.b3cd1d55.js",
-    "static/media/background.svg": "/Evangadi-Forum/static/media/background.192609b8540a56a36a47.svg",
-    "index.html": "/Evangadi-Forum/index.html",
-    "main.b38a0eba.css.map": "/Evangadi-Forum/static/css/main.b38a0eba.css.map",
-    "main.b3cd1d55.js.map": "/Evangadi-Forum/static/js/main.b3cd1d55.js.map"
+    "main.css": "/Forum-Frontend-Backend/static/css/main.e35af06d.css",
+    "main.js": "/Forum-Frontend-Backend/static/js/main.adc6bb42.js",
+    "static/media/background.svg": "/Forum-Frontend-Backend/static/media/background.192609b8540a56a36a47.svg",
+    "index.html": "/Forum-Frontend-Backend/index.html",
+    "main.e35af06d.css.map": "/Forum-Frontend-Backend/static/css/main.e35af06d.css.map",
+    "main.adc6bb42.js.map": "/Forum-Frontend-Backend/static/js/main.adc6bb42.js.map"
   },
   "entrypoints": [
-    "static/css/main.b38a0eba.css",
-    "static/js/main.b3cd1d55.js"
+    "static/css/main.e35af06d.css",
+    "static/js/main.adc6bb42.js"
   ]
 }
